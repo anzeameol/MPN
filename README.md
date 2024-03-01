@@ -1,4 +1,4 @@
-<center><font size = 5>fdu computer graphic projects</font></center>
+<center><font size = 5>MPN-My PointNet</font></center>
 <p align='right'>by Nemo</p>
 
 # Introduction
